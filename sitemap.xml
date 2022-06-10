@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xuboluo666.com/2022/06/11/6.%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/</loc>
+    
+    <lastmod>2022-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.xuboluo666.com/categories/index.html</loc>
     
     <lastmod>2022-06-10</lastmod>
@@ -23,15 +32,6 @@
     <loc>http://www.xuboluo666.com/2022/06/02/hello-world/</loc>
     
     <lastmod>2022-06-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.xuboluo666.com/2021/11/25/6.%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/</loc>
-    
-    <lastmod>2022-05-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
